@@ -1,0 +1,4 @@
+Brief Introduction of Myself
+My name is Tonny Osiro, and I'm an aspiring software engineer with a passion for solving real-world problems using technology. I'm currently learning the fundamentals of programming, version control, and cybersecurity. I enjoy building small projects, exploring how systems work under the hood, and collaborating with other learners to grow my skills.
+
+Outside of tech, I’m a creative thinker and a strong believer in continuous self-improvement. I enjoy working on designs, participating in community initiatives, and helping others reach their goals. My goal is to use my skills to make a positive impact in the tech space and beyond.
